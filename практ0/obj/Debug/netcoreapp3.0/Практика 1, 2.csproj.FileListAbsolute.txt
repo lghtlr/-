@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\bin\Debug\netcoreapp3.0\Практика 1, 2.exe
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\bin\Debug\netcoreapp3.0\Практика 1, 2.deps.json
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\bin\Debug\netcoreapp3.0\Практика 1, 2.runtimeconfig.json
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\bin\Debug\netcoreapp3.0\Практика 1, 2.runtimeconfig.dev.json
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\bin\Debug\netcoreapp3.0\Практика 1, 2.dll
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\bin\Debug\netcoreapp3.0\Практика 1, 2.pdb
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\obj\Debug\netcoreapp3.0\Практика 1, 2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\obj\Debug\netcoreapp3.0\Практика 1, 2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\obj\Debug\netcoreapp3.0\Практика 1, 2.AssemblyInfo.cs
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\obj\Debug\netcoreapp3.0\Практика 1, 2.dll
+C:\Users\1\Desktop\операционные системы\Практика 1\Практика 1, 2\obj\Debug\netcoreapp3.0\Практика 1, 2.pdb

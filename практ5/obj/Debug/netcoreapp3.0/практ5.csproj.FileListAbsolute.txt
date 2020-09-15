@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\bin\Debug\netcoreapp3.0\практ5.exe
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\bin\Debug\netcoreapp3.0\практ5.deps.json
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\bin\Debug\netcoreapp3.0\практ5.runtimeconfig.json
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\bin\Debug\netcoreapp3.0\практ5.runtimeconfig.dev.json
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\bin\Debug\netcoreapp3.0\практ5.dll
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\bin\Debug\netcoreapp3.0\практ5.pdb
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\obj\Debug\netcoreapp3.0\практ5.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\obj\Debug\netcoreapp3.0\практ5.AssemblyInfo.cs
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\obj\Debug\netcoreapp3.0\практ5.dll
+C:\Users\1\Desktop\операционные системы\Практика 1\практ5\obj\Debug\netcoreapp3.0\практ5.pdb

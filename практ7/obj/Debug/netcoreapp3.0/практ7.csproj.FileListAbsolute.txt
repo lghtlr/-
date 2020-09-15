@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\bin\Debug\netcoreapp3.0\практ7.exe
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\bin\Debug\netcoreapp3.0\практ7.deps.json
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\bin\Debug\netcoreapp3.0\практ7.runtimeconfig.json
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\bin\Debug\netcoreapp3.0\практ7.runtimeconfig.dev.json
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\bin\Debug\netcoreapp3.0\практ7.dll
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\bin\Debug\netcoreapp3.0\практ7.pdb
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\obj\Debug\netcoreapp3.0\практ7.csprojAssemblyReference.cache
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\obj\Debug\netcoreapp3.0\практ7.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\obj\Debug\netcoreapp3.0\практ7.AssemblyInfo.cs
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\obj\Debug\netcoreapp3.0\практ7.dll
+C:\Users\1\Desktop\операционные системы\Практика 1\практ7\obj\Debug\netcoreapp3.0\практ7.pdb
